@@ -1,5 +1,5 @@
 {
-  "name": "mongoose_skeleton",
+  "name": "bchw17",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,8 +12,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
-    "mongoose": "^5.3.16",
-    "morgan": "^1.9.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
+    "morgan": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marissarrwilson/bchw17-workoutTracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marissarrwilson/bchw17-workoutTracker/issues"
+  },
+  "homepage": "https://github.com/marissarrwilson/bchw17-workoutTracker#readme"
 }
